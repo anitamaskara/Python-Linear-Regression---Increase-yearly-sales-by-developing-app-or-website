@@ -8,3 +8,5 @@ It also has numerical value columns:
 2. Time on App: Average time spent on App in minutes
 3. Time on Website: Average time spent on Website in minutes
 4. Length of Membership: How many years the customer has been a member of the company.
+
+Exploratory Data Analysis, Training the model, fitting the model, predicting using test data, evaluating the model, residuals, multicollinearity, interpreting linear regression model coefficients
